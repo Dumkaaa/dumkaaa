@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Dumkaaa&show_icons=true&count_private=true" alt="Dumkaaa" /></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumkaaa&layout=compact" alt="Dumkaaa" /></p>
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=dumkaaa" alt="Dumkaaa" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Dumkaaa&show_icons=true&count_private=true" alt="Dumkaaa" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumkaaa&layout=compact" alt="Dumkaaa" /></p>
+<p><img src="https://github-profile-trophy.vercel.app/?username=dumkaaa" alt="Dumkaaa" /></p>
