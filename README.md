@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 <p><img src="https://github-readme-stats.vercel.app/api?username=Dumkaaa&show_icons=true&count_private=true" alt="Dumkaaa" /></p>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dumkaaa&layout=compact" alt="Dumkaaa" /></p>
 <p><img src="https://github-profile-trophy.vercel.app/?username=dumkaaa&column=7" alt="Dumkaaa" /></p>
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=Dumkaaa" alt="Dumkaaa" /></p>
